@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "firstName": "Austin",
+      "age": 35,
+      "lastName": "Madden"
+    },
+    {
+      "id": 2,
+      "firstName": "Hampton",
+      "age": 35,
+      "lastName": "Wilkinson"
+    },
+    {
+      "id": 3,
+      "firstName": "Trujillo",
+      "age": 24,
+      "lastName": "Rivers"
+    },
+    {
+      "id": 4,
+      "firstName": "Dorsey",
+      "age": 30,
+      "lastName": "Lawson"
+    },
+    {
+      "id": 5,
+      "firstName": "Vargas",
+      "age": 21,
+      "lastName": "Long"
+    },
+    {
+      "id": 6,
+      "firstName": "Chan",
+      "age": 40,
+      "lastName": "Hess"
+    }
+  ]
